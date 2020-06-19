@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moncherie-flower-store/static/css/main.a14d4d25.chunk.css",
+    "main.js": "/moncherie-flower-store/static/js/main.7908cff8.chunk.js",
+    "main.js.map": "/moncherie-flower-store/static/js/main.7908cff8.chunk.js.map",
+    "runtime-main.js": "/moncherie-flower-store/static/js/runtime-main.5e97bde2.js",
+    "runtime-main.js.map": "/moncherie-flower-store/static/js/runtime-main.5e97bde2.js.map",
+    "static/css/2.4707e12a.chunk.css": "/moncherie-flower-store/static/css/2.4707e12a.chunk.css",
+    "static/js/2.3e0f402a.chunk.js": "/moncherie-flower-store/static/js/2.3e0f402a.chunk.js",
+    "static/js/2.3e0f402a.chunk.js.map": "/moncherie-flower-store/static/js/2.3e0f402a.chunk.js.map",
+    "index.html": "/moncherie-flower-store/index.html",
+    "precache-manifest.41a0acafb4d068ab6087145b9fd476d6.js": "/moncherie-flower-store/precache-manifest.41a0acafb4d068ab6087145b9fd476d6.js",
+    "service-worker.js": "/moncherie-flower-store/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/moncherie-flower-store/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.a14d4d25.chunk.css.map": "/moncherie-flower-store/static/css/main.a14d4d25.chunk.css.map",
+    "static/js/2.3e0f402a.chunk.js.LICENSE.txt": "/moncherie-flower-store/static/js/2.3e0f402a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/moncherie-flower-store/static/media/wecome-flower.410797e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e97bde2.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.3e0f402a.chunk.js",
+    "static/css/main.a14d4d25.chunk.css",
+    "static/js/main.7908cff8.chunk.js"
+  ]
+}
