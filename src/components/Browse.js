@@ -18,7 +18,7 @@ const Browse = () => {
               <div className="card shadow rounded">
                 <img
                   className="card-img"
-                  src="/images/1.jpg"
+                  src={process.env.PUBLIC_URL + '/images/1.jpg'}
                   alt="Card image"
                 />
               </div>
@@ -27,7 +27,7 @@ const Browse = () => {
               <div className="card flower-card">
                 <img
                   className="card-img"
-                  src="/images/2.jpg"
+                  src={process.env.PUBLIC_URL + '/images/2.jpg'}
                   alt="Card image"
                 />
               </div>
@@ -36,7 +36,7 @@ const Browse = () => {
               <div data-aos="fade-left" className="card flower-card">
                 <img
                   className="card-img"
-                  src="/images/3.jpg"
+                  src={process.env.PUBLIC_URL + '/images/3.jpg'}
                   alt="Card image"
                 />
               </div>
@@ -47,7 +47,7 @@ const Browse = () => {
               <div data-aos="fade-right" className="card flower-card">
                 <img
                   className="card-img"
-                  src="/images/4.jpg"
+                  src={process.env.PUBLIC_URL + '/images/4.jpg'}
                   alt="Card image"
                 />
               </div>
@@ -56,7 +56,7 @@ const Browse = () => {
               <div data-aos="fade-up" className="card flower-card">
                 <img
                   className="card-img"
-                  src="/images/5.jpg"
+                  src={process.env.PUBLIC_URL + '/images/5.jpg'}
                   alt="Card image"
                 />
               </div>
@@ -65,7 +65,7 @@ const Browse = () => {
               <div data-aos="fade-left" className="card flower-card">
                 <img
                   className="card-img"
-                  src="/images/6.jpg"
+                  src={process.env.PUBLIC_URL + '/images/6.jpg'}
                   alt="Card image"
                 />
               </div>
