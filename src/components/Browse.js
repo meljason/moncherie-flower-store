@@ -1,12 +1,12 @@
 import React, { Fragment, useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import product1 from '../img/1.jpg'
-import product2 from '../img/2.jpg'
-import product3 from '../img/3.jpg'
-import product4 from '../img/4.jpg'
-import product5 from '../img/5.jpg'
-import product6 from '../img/6.jpg'
+import product1 from "../img/1.jpg";
+import product2 from "../img/2.jpg";
+import product3 from "../img/3.jpg";
+import product4 from "../img/4.jpg";
+import product5 from "../img/5.jpg";
+import product6 from "../img/6.jpg";
 
 const Browse = () => {
   useEffect(() => {
@@ -21,62 +21,38 @@ const Browse = () => {
           <div className="row mb-4">
             <div data-aos="fade-right" className="col-sm-4">
               <div className="card shadow rounded">
-                <img
-                  className="card-img"
-                  src={product1}
-                  alt="Card image"
-                />
+                <img className="card-img" src={product1} alt="Product 1" />
               </div>
             </div>
             <div data-aos="fade-up" className="col-sm-4">
               <div className="card flower-card">
-                <img
-                  className="card-img"
-                  src={product2}
-                  alt="Card image"
-                />
+                <img className="card-img" src={product2} alt="Product 2" />
               </div>
             </div>
             <div className="col-sm-4">
               <div data-aos="fade-left" className="card flower-card">
-                <img
-                  className="card-img"
-                  src={product3}
-                  alt="Card image"
-                />
+                <img className="card-img" src={product3} alt="Product 3" />
               </div>
             </div>
           </div>
           <div className="row mb-4">
             <div className="col-sm-4">
               <div data-aos="fade-right" className="card flower-card">
-                <img
-                  className="card-img"
-                  src={product4}
-                  alt="Card image"
-                />
+                <img className="card-img" src={product4} alt="Product 4" />
               </div>
             </div>
             <div className="col-sm-4">
               <div data-aos="fade-up" className="card flower-card">
-                <img
-                  className="card-img"
-                  src={product5}
-                  alt="Card image"
-                />
+                <img className="card-img" src={product5} alt="Product 5" />
               </div>
             </div>
             <div className="col-sm-4">
               <div data-aos="fade-left" className="card flower-card">
-                <img
-                  className="card-img"
-                  src={product6}
-                  alt="Card image"
-                />
+                <img className="card-img" src={product6} alt="Product 6" />
               </div>
             </div>
           </div>
-          <a href="" className="btn btn-view-more">
+          <a href="#" className="btn btn-view-more">
             View More
           </a>
         </section>

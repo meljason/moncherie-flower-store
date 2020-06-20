@@ -138,7 +138,7 @@ header {
 }
 
 .welcome-container {
-  top: 16.3rem;
+  top: 20vh;
 }
 
 .btn-find-bouquet {
@@ -169,7 +169,7 @@ header {
 .flower-img {
   background-image: url(./img/wecome-flower.png);
   background-size: cover;
-  height: 50rem;
+  height: 40rem;
   transform: rotate(-9.99deg);
 }
 
