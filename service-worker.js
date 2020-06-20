@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moncherie-flower-store/precache-manifest.1951591a2183d7d146849c2c5dc241a9.js"
+  "/moncherie-flower-store/precache-manifest.478ab00b31c86eff729a95c3b0af7d1f.js"
 );
 
 self.addEventListener('message', (event) => {
