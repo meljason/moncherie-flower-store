@@ -1,7 +1,12 @@
 import React, { Fragment, useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-
+import product1 from '../img/1.jpg'
+import product2 from '../img/2.jpg'
+import product3 from '../img/3.jpg'
+import product4 from '../img/4.jpg'
+import product5 from '../img/5.jpg'
+import product6 from '../img/6.jpg'
 
 const Browse = () => {
   useEffect(() => {
@@ -18,7 +23,7 @@ const Browse = () => {
               <div className="card shadow rounded">
                 <img
                   className="card-img"
-                  src={process.env.PUBLIC_URL + '/images/1.jpg'}
+                  src={product1}
                   alt="Card image"
                 />
               </div>
@@ -27,7 +32,7 @@ const Browse = () => {
               <div className="card flower-card">
                 <img
                   className="card-img"
-                  src={process.env.PUBLIC_URL + '/images/2.jpg'}
+                  src={product2}
                   alt="Card image"
                 />
               </div>
@@ -36,7 +41,7 @@ const Browse = () => {
               <div data-aos="fade-left" className="card flower-card">
                 <img
                   className="card-img"
-                  src={process.env.PUBLIC_URL + '/images/3.jpg'}
+                  src={product3}
                   alt="Card image"
                 />
               </div>
@@ -47,7 +52,7 @@ const Browse = () => {
               <div data-aos="fade-right" className="card flower-card">
                 <img
                   className="card-img"
-                  src={process.env.PUBLIC_URL + '/images/4.jpg'}
+                  src={product4}
                   alt="Card image"
                 />
               </div>
@@ -56,7 +61,7 @@ const Browse = () => {
               <div data-aos="fade-up" className="card flower-card">
                 <img
                   className="card-img"
-                  src={process.env.PUBLIC_URL + '/images/5.jpg'}
+                  src={product5}
                   alt="Card image"
                 />
               </div>
@@ -65,7 +70,7 @@ const Browse = () => {
               <div data-aos="fade-left" className="card flower-card">
                 <img
                   className="card-img"
-                  src={process.env.PUBLIC_URL + '/images/6.jpg'}
+                  src={product6}
                   alt="Card image"
                 />
               </div>
