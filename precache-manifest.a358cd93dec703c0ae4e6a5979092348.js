@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1de5eaf64034fa21008a3a97889bb34c",
+    "revision": "35959a3f3b43fa8d2c994df31d3456fc",
     "url": "/moncherie-flower-store/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moncherie-flower-store/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "ec836748633d2c7f66f2",
-    "url": "/moncherie-flower-store/static/css/main.b405108e.chunk.css"
+    "revision": "f5577b153890a6d8cee1",
+    "url": "/moncherie-flower-store/static/css/main.4515de13.chunk.css"
   },
   {
     "revision": "e179bc3e29ba5121e37e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moncherie-flower-store/static/js/2.f3006d4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec836748633d2c7f66f2",
+    "revision": "f5577b153890a6d8cee1",
     "url": "/moncherie-flower-store/static/js/main.c09e98a5.chunk.js"
   },
   {
